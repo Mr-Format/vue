@@ -1,0 +1,27 @@
+{
+    "status": 0,
+    "message": [
+        {
+            "id": 8,
+            "model": "HUAWEI P20 Pro",
+            "title":"HUAWEI P20 Pro  4000万徕卡三摄 AI摄影大师 6GB+128GB 全网通版",
+            "time": "2019-6-13",
+            "zhaiyao": "下单立减400元，购机赠豪华券包",
+            "click": 0,
+            "img_url": "https://res0.vmallres.com/pimages//product/6901443224098/428_428_1542766853859mp.png",
+            "price": 4988,
+            "discount": "下单减400 "
+        },
+        {
+            "id": 7,
+            "model": "HUAWEI nova 4",
+            "title":"HUAWEI nova 4 2000万超广角三摄 自拍极点全面屏 6GB+128GB 全网通版",
+            "time": "2019-6-13",
+            "zhaiyao": "【限时直降300】赠豪华券包，购机赢法国豪华游",
+            "click": 0,
+            "img_url": "https://res0.vmallres.com/pimages//product/6901443303625/428_428_1555981787012mp.png",
+            "price": 2499,
+            "discount": "最高直降300"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "status": 0,
+    "message": [
+        {
+            "id": 8,
+            "model": "HUAWEI P20 Pro",
+            "code": "2601010026801",
+            "interface": "华为EMUI 8.1",
+            "title":"HUAWEI P20 Pro  4000万徕卡三摄 AI摄影大师 6GB+128GB 全网通版（极光色）",
+            "time": "2018年4月",
+            "price": 4988,
+            "discount": "下单减400 "
+        },
+        {
+            "id": 7,
+            "model": "HUAWEI nova 4",
+            "code": "2601010086603",
+            "interface": "EMUI 9.0.1",
+            "title":"HUAWEI nova 4 2000万超广角三摄 自拍极点全面屏 6GB+128GB 全网通版（贝母白）",
+            "time": "2018年12月",
+            "price": 2499,
+            "discount": "最高直降300"
+        },
+        {
+            "id": 6,
+            "model": "HUAWEI Mate 20",
+            "code": "2601010066901",
+            "interface": "EMUI 9.0.0",
+            "title":"HUAWEI Mate 20 6GB+64GB 全网通版（亮黑色）",
+            "time": "2018年10月",
+            "price": 3499,
+            "discount": "领券减200+6期免息"
+        },
+        {
+            "id": 5,
+            "model": "荣耀10青春版",
+            "code": "2601010083802",
+            "interface": "EMUI 9.0.1",
+            "title":"荣耀10青春版 幻彩渐变 2400万AI自拍 6.21英寸高屏占比珍珠屏 全网通 4GB+64GB（渐变蓝）",
+            "time": "----",
+            "price": 1099,
+            "discount": "最高优惠400"
+        },
+        {
+            "id": 4,
+            "model": "华为畅享9",
+            "code": "2601010084202",
+            "interface": "EMUI 8.2",
+            "title":"华为畅享9 1300万AI双摄  4000mAh大电池  3GB+32GB 全网通标配版（幻夜黑）",
+            "time": "2018年12月",
+            "price": 849,
+            "discount": "最高优惠150"
+        },
+        {
+            "id": 3,
+            "model": "荣耀8X",
+            "code": "2601010058702",
+            "interface": "EMUI 8.2",
+            "title":"荣耀8X 千元屏霸 高屏占比 2000万AI双摄 全网通 4GB+64GB（魅海蓝）",
+            "time": "2018年9月",
+            "price": 1199,
+            "discount": "优惠200"
+        },
+        {
+            "id": 2,
+            "model": "华为麦芒8",
+            "code": "2601010087401",
+            "interface": "EMUI 9.0",
+            "title":"华为麦芒8 6G+128G 全网通版（宝石蓝）",
+            "time": "2019年6月",
+            "price": 1899,
+            "discount": "购机赠耳机"
+        },
+        {
+            "id": 1,
+            "model": "荣耀V20",
+            "code": "2601010115702",
+            "interface": "Magic UI 2.0.1",
+            "title":"荣耀V20 麒麟980 魅眼全视屏 4800万AI超清摄影 全网通6GB+128GB 标配版 幻夜黑",
+            "time": "2018年12月",
+            "price": 2399,
+            "discount": "限时优惠600元"
+        }
+    ]
+}

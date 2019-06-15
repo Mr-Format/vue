@@ -1,0 +1,61 @@
+{
+    "status": 0,
+    "message": [
+        {
+            "count": 1,
+            "id": 8,
+            "title": "HUAWEI P20 Pro  4000万徕卡三摄 AI摄影大师 6GB+128GB 全网通版",
+            "price": 4988,
+            "thumb_img": "https://res.vmallres.com/pimages//product/6901443267163/40_40_1539242708177mp.png"
+        },
+        {
+            "count": 1,
+            "id": 7,
+            "title": "HUAWEI nova 4 2000万超广角三摄 自拍极点全面屏 6GB+128GB 全网通版",
+            "price": 2499,
+            "thumb_img": "https://res.vmallres.com/pimages//product/6901443278176/40_40_1544693959065mp.png"
+        },
+        {
+            "count": 1,
+            "id": 6,
+            "title": "HUAWEI Mate 20 6GB+64GB 全网通版",
+            "price": 3499,
+            "thumb_img": "https://res.vmallres.com/pimages//product/6901443260232/40_40_1539230426520mp.png"
+        },
+        {
+            "count": 1,
+            "id": 5,
+            "title": "荣耀10青春版 幻彩渐变 2400万AI自拍 6.21英寸高屏占比珍珠屏 全网通",
+            "price": 1099,
+            "thumb_img": "https://res.vmallres.com/pimages//product/6901443273959/40_40_1555729935843mp.png"
+        },
+        {
+            "count": 1,
+            "id": 4,
+            "title": "华为畅享9 1300万AI双摄  4000mAh大电池  3GB+32GB 全网通标配版",
+            "price": 849,
+            "thumb_img": "https://res.vmallres.com/pimages//product/6901443272754/40_40_1543457217635mp.png"
+        },
+        {
+            "count": 1,
+            "id": 3,
+            "title": "荣耀8X 千元屏霸 高屏占比 2000万AI双摄 全网通",
+            "price": 1199,
+            "thumb_img": "https://res.vmallres.com/pimages//product/6901443261475/40_40_1550885529349mp.png"
+        },
+        {
+            "count": 1,
+            "id": 2,
+            "title": "华为麦芒8 6G+128G 全网通版",
+            "price": 1899,
+            "thumb_img": "https://res.vmallres.com/pimages//product/6901443315307/40_40_1559035092483mp.png"
+        },
+        {
+            "count": 1,
+            "id": 1,
+            "title": "荣耀V20 麒麟980 魅眼全视屏 4800万AI超清摄影 全网通6GB+128GB 标配版",
+            "price": 2399,
+            "thumb_img": "https://res.vmallres.com/pimages//product/6901443280995/40_40_1545877507789mp.png"
+        }
+    ]
+}
