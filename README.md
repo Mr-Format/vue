@@ -1,4 +1,17 @@
-# 包含 webpack vue-router vue-resource 的 vue 练习项目
+# vue 练习项目
+- Mr-Format
+- 2019/6/16
+
+## 开发工具：
++ vue
++ webpack
++ npm
++ vue-resource
++ vue-router
++ Mint UI
++ MUI
++ Vuex
++ JSON
 
 ## 制作首页 App 组件
 1. 完成 Header 区域，使用的是 Mint-ui 中的 Header 组件
@@ -9,8 +22,7 @@
 + 3.修改购物车图标的类 mui-icon mui-icon-extra mui-icon-extra-cart
 3. 在中间区域放置 router-view 来展示路由匹配到的组件
 
-
-## 修改 tabbar 为 router-link
+### 修改 tabbar 为 router-link
 
 ## 设置路由高亮
 
@@ -97,8 +109,6 @@ mui('.mui-scroll-wrapper').scroll({
 
 ## 商品列表
 
-## 监听设置：  --host 192.168.1.101
-
 ## 商品详情
 
 ## 商品评论
@@ -108,4 +118,8 @@ mui('.mui-scroll-wrapper').scroll({
 2. 设置小球动态位移
 
 ## 绑定购物车商品数字
-1. 子组件像父组件传值： 事件调用
+
+## webpack 打包出现的问题
+1. webpack 和 babel 版本不兼容
+2. 本地 API 文档（JSON）没有打包进 dist 
+3. 图片相对路径在打包后引用路径错误
