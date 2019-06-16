@@ -1,7 +1,5 @@
-# vue 练习项目
-- `Mr-Format`
-- `2019/6/16`
-
+# vue 练习项目  `Mr-Format`  `2019/6/16`
+[我的首页](https://mr-format.github.io/)
 ## 开发工具：
 + vue
 + webpack
